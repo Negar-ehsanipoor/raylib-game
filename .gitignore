@@ -1,2 +1,4 @@
 # Ignore compiled executable
-game.exe
+phase-1.exe
+phase-total.exe
+map.bin
